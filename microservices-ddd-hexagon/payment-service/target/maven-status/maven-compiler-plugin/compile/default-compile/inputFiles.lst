@@ -1,0 +1,16 @@
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/PaymentServiceApplication.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/application/port/in/GetPaymentUseCase.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/application/port/in/ProcessPaymentUseCase.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/application/port/out/PaymentRepositoryPort.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/application/service/PaymentServiceImpl.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/domain/model/Payment.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/domain/model/PaymentStatus.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/domain/repository/PaymentRepository.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/in/messaging/OrderEventConsumer.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/in/messaging/event/OrderCreatedEvent.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/in/web/PaymentController.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/out/persistence/PaymentJpaEntity.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/out/persistence/PaymentMapper.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/out/persistence/PaymentRepositoryAdapter.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/out/persistence/PaymentStatusJpaEnum.java
+/app/microservices-ddd-hexagon/payment-service/src/main/java/com/example/paymentservice/infrastructure/adapter/out/persistence/SpringDataPaymentRepository.java

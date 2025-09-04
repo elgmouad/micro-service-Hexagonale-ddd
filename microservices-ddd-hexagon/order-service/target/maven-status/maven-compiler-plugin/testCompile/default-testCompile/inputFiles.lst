@@ -1,0 +1,3 @@
+/app/microservices-ddd-hexagon/order-service/src/test/java/com/example/orderservice/OrderServiceApplicationTests.java
+/app/microservices-ddd-hexagon/order-service/src/test/java/com/example/orderservice/domain/model/OrderTest.java
+/app/microservices-ddd-hexagon/order-service/src/test/java/com/example/orderservice/infrastructure/adapter/in/web/OrderControllerTest.java

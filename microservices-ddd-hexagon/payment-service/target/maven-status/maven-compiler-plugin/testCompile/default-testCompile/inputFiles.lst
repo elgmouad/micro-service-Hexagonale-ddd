@@ -1,0 +1,3 @@
+/app/microservices-ddd-hexagon/payment-service/src/test/java/com/example/paymentservice/PaymentServiceApplicationTests.java
+/app/microservices-ddd-hexagon/payment-service/src/test/java/com/example/paymentservice/domain/model/PaymentTest.java
+/app/microservices-ddd-hexagon/payment-service/src/test/java/com/example/paymentservice/infrastructure/adapter/in/web/PaymentControllerTest.java
